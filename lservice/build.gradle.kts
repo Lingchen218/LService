@@ -5,7 +5,7 @@ plugins {
 
 
 android {
-    namespace = "io.github.houvven.lservice"
+    namespace = "io.github.biezhihua.lservice"
     compileSdk = 34
 
     defaultConfig {
