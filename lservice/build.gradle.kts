@@ -35,7 +35,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("LService") {
-            group = "io.github.houvven"
+            group = "io.github.biezhihua"
             artifactId = "lservice"
             version = "1.0.0"
             afterEvaluate {
