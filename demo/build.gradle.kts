@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.houvven.lsposed.scope.demo"
+    namespace = "com.Lingchen218.lsposed.scope.demo"
     compileSdk = 34
 
     defaultConfig {

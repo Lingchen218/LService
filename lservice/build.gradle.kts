@@ -5,7 +5,7 @@ plugins {
 
 
 android {
-    namespace = "io.github.biezhihua.lservice"
+    namespace = "io.github.Lingchen218.lservice"
     compileSdk = 34
 
     defaultConfig {
@@ -35,7 +35,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("LService") {
-            group = "io.github.biezhihua"
+            group = "io.github.Lingchen218"
             artifactId = "lservice"
             version = "1.0.0"
             afterEvaluate {
